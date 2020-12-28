@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Craig Sansam</title>
-    <link>craig.sans.am/</link>
+    <link>https://craig.sans.am/</link>
     <description>Recent content on Craig Sansam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Craig Sansam</copyright><atom:link href="craig.sans.am/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; Craig Sansam</copyright><atom:link href="https://craig.sans.am/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
