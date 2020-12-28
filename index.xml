@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Craig Sansam</title>
+    <link>craigsansam.github.io/</link>
+    <description>Recent content on Craig Sansam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Copyright notice</copyright><atom:link href="craigsansam.github.io/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
