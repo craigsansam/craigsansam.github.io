@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/craigy
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://craig.sans.am
+  * I am craigy (https://keybase.io/craigy) on keybase.
+  * I have a public key ASAu_-XXqwakgcnNwfrhINkyIPxozcEubgo1xyuE8GRs5Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202effe5d7ab06a481c9cdc1fae120d93220fc68cdc12e6e0a35c72b84f0646ce50a",
+      "host": "keybase.io",
+      "kid": "01202effe5d7ab06a481c9cdc1fae120d93220fc68cdc12e6e0a35c72b84f0646ce50a",
+      "uid": "17f889699093996469282bf5d3ba0e00",
+      "username": "craigy"
+    },
+    "merkle_root": {
+      "ctime": 1612109242,
+      "hash": "2c92e8e0aa1b37756aa6a512c2a624524e8bed85a5087464e16363eaeed7f787e872fb72c12539f5e22662f1440bd38951244cfe7cf91e32a8862c5c67b334e3",
+      "hash_meta": "2ee8ef22ca5385a4d3e200a48f04d140060a55e866639f56c6316bc82d302a40",
+      "seqno": 18965877
+    },
+    "service": {
+      "entropy": "LtNv+NmCOoWeis+D8iLFdpgM",
+      "hostname": "craig.sans.am",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.0"
+  },
+  "ctime": 1612109255,
+  "expire_in": 504576000,
+  "prev": "c2ba112bae653be60a032aef62f3f66c1ef9e6eb95ec6ad35ab465250accbc59",
+  "seqno": 106,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgLv/l16sGpIHJzcH64SDZMiD8aM3BLm4KNccrhPBkbOUKp3BheWxvYWTESpcCasQgwroRK65lO+YKAyrvYvP2bB755uuV7GrTWrRlJQrMvFnEIAygQkRZBUiV8gtofrqTZL8V7QnvbSLcJt6IsyAUleidAgHCo3NpZ8RAU+JjIUw86AS3dYK69j4SUIUMysroFKzYSVxO9wWPhNQwBxa2b80f7qqRMy79aK8SN4JY9r6Dav1YnNHAFktlD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICNc1hfvIjLVu1YJb4c1bgRgzXPtQyqOKwg+tvFGGftYo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/craigy
+
+==================================================================
